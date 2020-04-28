@@ -4,13 +4,19 @@
 
 mac 설치 위치 : [자바 jdk 8 받기](https://www.oracle.com/java/technologies/jdk8-downloads.html)
 
+
+
 ## 환경설정하기
 
 java path 설정
 
+
+
 ## 이클립스 + 설치 및 인코딩
 
 mac 유저 이클립스 설치 : `brew cask install eclipse-jee;`
+
+
 
 ## 프로젝트 시작하기
 
@@ -29,6 +35,8 @@ Java Code Conventions (프로그래머들끼리의 약속)
 
 [자바 코딩 규칙](https://myeonguni.tistory.com/1596)
 
+
+
 ## Tomcat
 
 ### Apache Tomcat
@@ -44,6 +52,8 @@ tomcat 끄기 : `./shutdown.sh`
 `./catalina.sh start`
 
 `./catalina.sh stop`
+
+
 
 ## Servlet
 
