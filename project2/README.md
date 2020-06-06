@@ -74,6 +74,6 @@
 2. Web API란?
 3. Web API 실습
 
-## [Summary]
+## [:partly_sunny: Summary]
 
-## [Project]
+## [:pencil: Project]
