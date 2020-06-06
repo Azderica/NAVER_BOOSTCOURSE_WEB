@@ -12,8 +12,6 @@
 6. 웹서버
 7. WAS
 
-
-
 ## [:sunny:FE]
 
 #### HTML [LINK](./2-HTML/README.md)
@@ -33,8 +31,6 @@
 6. float 기반 샘플 화면 레이아웃 구성
 7. 디버깅 - HTML - CSS
 
-
-
 ## [:cloud:BE]
 
 #### 개발환경 설정 [LINK](./4-Develop-Environment/README.md)
@@ -53,29 +49,25 @@
 3. Servlet 라이프 싸이클
 4. Request, Response 객체 이해하기
 
-
-
-## [Summary] 
+## [Summary]
 
 #### 파트1. 웹 프로그래밍 기초 - 웹 프론트엔드
 
-* 프론트엔드와 백엔드의 역할과 관계
-* HTML로 웹페이지 구조 설계
-* CSS 레이아웃에 필요한 속성과 활용방법
+- 프론트엔드와 백엔드의 역할과 관계
+- HTML로 웹페이지 구조 설계
+- CSS 레이아웃에 필요한 속성과 활용방법
 
 #### 파트1. 웹 프로그래밍 기초 - 웹 백엔드
 
-* 웹 개발에 대한 이해
-* 개발 환경 설정
-* 서블릿(Servlet)
-
-
+- 웹 개발에 대한 이해
+- 개발 환경 설정
+- 서블릿(Servlet)
 
 ## [Project]
 
 자기소개 페이지 만들기
 
-> [관련 요구 사항](https://docs.google.com/presentation/d/1Q0qZO7mEh5VFcm2riFsP0XViNaKUP7Bj5NCjiia3hyo/edit) 
+> [관련 요구 사항](https://docs.google.com/presentation/d/1Q0qZO7mEh5VFcm2riFsP0XViNaKUP7Bj5NCjiia3hyo/edit)
 
 **웹프론트엔드 기술요구사항**
 
@@ -90,8 +82,3 @@
 
 - 톰캣서버를 통해서 자기소개 페이지가 동작되야 합니다. (ex http://localhost:8080/aboutme/index.html 에서 노출)
 - 서블릿페이지하나를 생성해서, url을 입력했을 때 시간데이터가 화면에 노출돼야 합니다.
-
-
-
- 
-
